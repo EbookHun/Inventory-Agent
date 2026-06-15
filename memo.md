@@ -1,9 +1,5 @@
 ```markdown
-# 📄 STRATEGY MEMORANDUM: Algorithmic Replenishment
-
-**TO:** Supply Chain Leadership  
-**FROM:** Lead Analytics Engineer  
-**SUBJECT:** Deployment Recommendation for Q-Learning Replenishment Agent
+# 📄 STRATEGY MEMO: Algorithmic Replenishment
 
 ### 1. Executive Recommendation: SHADOW DEPLOYMENT
 I recommend a **Shadow Deployment** of the Tabular Q-Learning inventory agent across Tier-2 distribution centers. In simulation, the RL agent outperformed our naive baseline policy in total net margin by **18.3%** ($1,073.95 vs $907.20). However, full autonomous production rights should be withheld until strict safety ceilings are coded into the ordering API.
