@@ -1,3 +1,5 @@
+```markdown
+
 # 📦 Sequential Supply Chain Agent (2-Month Lag)
 
 This repository contains a reinforcement learning solution for retail inventory replenishment. Rather than a simple immediate-feedback environment, this simulator enforces a **two-month logistics arrival lag**, requiring the agent to make sequential, long-term hedging decisions to avoid the bullwhip effect.
